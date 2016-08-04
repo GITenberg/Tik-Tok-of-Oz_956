@@ -1,0 +1,45 @@
+_repo: Tik-Tok-of-Oz_956
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Bancroft, Laura
+    - Van Dyne, Edith
+    - Baum, Lyman Frank
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: "Tik-Tok of Oz is the eighth Land of Oz book written by L. Frank Baum,\
+  \ published on June 19, 1914. The book actually has little to do with Tik-Tok and\
+  \ is primarily the quest of the Shaggy Man (introduced in The Road to Oz) to rescue\
+  \ his brother, and his resulting conflict with the Nome King.\nThe endpapers of\
+  \ the first edition held maps: one of Oz itself, and one of the continent on which\
+  \ Oz and its neighboring countries belonged. These were the first maps printed of\
+  \ Oz.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Children's Literature
+- Fantasy
+gutenberg_issued: '1997-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '956'
+  wikidata: Q7801858
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Oz (Imaginary place) -- Fiction'
+- !lcsh 'Fantasy'
+- GITenberg
+title: Tik-Tok of Oz
+url: http://www.gutenberg.org/ebooks/956
+wikipedia:
+- https://ca.wikipedia.org/wiki/Tik-Tok_d%27Oz
+- https://ar.wikipedia.org/wiki/%D8%AA%D9%8A%D9%83_%D8%AA%D9%88%D9%83_%D9%85%D9%86_%D8%A3%D9%88%D8%B2
+- https://en.wikipedia.org/wiki/Tik-Tok_of_Oz
+- https://pt.wikipedia.org/wiki/Tik-Tok_of_Oz
