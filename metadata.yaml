@@ -1,5 +1,8 @@
 _repo: Tik-Tok-of-Oz_956
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Baum, L. Frank (Lyman Frank)
@@ -19,6 +22,8 @@ description: "Tik-Tok of Oz is the eighth Land of Oz book written by L. Frank Ba
   \ the first edition held maps: one of Oz itself, and one of the continent on which\
   \ Oz and its neighboring countries belonged. These were the first maps printed of\
   \ Oz.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/956#Tik-Tok-of-Oz
 gutenberg_bookshelf:
 - Children's Literature
 - Fantasy
